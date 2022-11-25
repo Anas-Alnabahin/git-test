@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+    padding-right: 185px;
+    margin-bottom: 30px;
+}
+
+fieldset{
+    padding: 10px;
+}
+
+form{
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+button{
+    height: 22px;
+    width: 56px;
+}
